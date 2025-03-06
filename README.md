@@ -25,6 +25,11 @@
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tahsinniyan) 
 
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tasmimtahsin}/count.svg" /></p> 
+</div>
 <!--Profile views-->
 <!--
 ![Profile views](https://gpvc.arturio.dev/kaustubh43)
