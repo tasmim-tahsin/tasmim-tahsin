@@ -1,45 +1,73 @@
-<p align="center"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/></p>
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
+<h1 align="center">Hi 👋, I'm Tahsin!</h1>
+<h3 align="center">A Passionate Full Stack Developer from Bangladesh
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
 
-<div id="badges">
-    <p align="center">
-        <a href="https://www.linkedin.com/in/tasmim-al-tahsin/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-        <a href="mailto:tahsinnitan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-        </a>
-    </p>
+
+
+* 🎓  I'm currently pursuing a BSc. in CSE at American International University-Bangladesh
+* ✉️  You can contact me at [tahsinniyan@gmail.com](mailto:abhishekganvirr@gmail.com)
+* ✨️ My best work till now  //[IntervueAI](https://intervueai-io.vercel.app)
+* 🚀 Interested in future tech
+
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+### Skills
+<p align="left">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://img.icons8.com/?size=96&id=21278&format=png" width="50" height="47" alt="CSS" />
+  <img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" width="45" height="45"  />
+   <img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" width="50" height="48"  />
+<img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=128&id=lVitPDXqQKP8&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" width="50" height="48"  />
+   <img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" width="50" height="48"  />
+
+  
+<img src="https://img.icons8.com/?size=96&id=22813&format=png" width="50" height="48"  />
+<img
+src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" height="42" />
+
+</p> 
+  
+<div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<h3 align="left">Connect with me </h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/tasmim-al-tahsin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ganvir" height="26" width="35" /></a>
+<a href="https://instagram.com/tahsin_niyan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
+<a href="https://discord.com/users/12409085545342608" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="abhishekganvir" height="30" width="40" /></a>
+</p>
+
+ <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
 
 
-
-<h1 align="center">Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Tahsin;Welcome+to+my+profile;Always+trying+to+learn+new+things)](https://git.io/typing-svg)
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ta.tahsin123) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tahsin_niyan25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tasmim-al-tahsin) 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tahsinniyan) 
-
-<div align="center">
-<br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tasmimtahsin}/count.svg" /></p> 
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekganvir&layout=donut-vertical&show_icons=true&theme=radical)
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-<!--Profile views-->
-<!--
-![Profile views](https://gpvc.arturio.dev/kaustubh43)
--->
-
-<!--Profile Stats-->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh43&layout=demo&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-### 📈 GitHub activity graph:
-[![Kaustubh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kaustubh43&theme=github-compact)](https://github.com/kaustubh43/github-readme-activity-graph)
--->
+  
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekganvir&show_icons=true&theme=radical)
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
