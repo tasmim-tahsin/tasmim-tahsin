@@ -13,7 +13,7 @@
 
 * 🎓  I'm currently pursuing a BSc. in CSE at American International University-Bangladesh
 * ✉️  You can contact me at [tahsinniyan@gmail.com](mailto:abhishekganvirr@gmail.com)
-* ✨️ My best work till now  //[IntervueAI](https://intervueai-io.vercel.app)
+* ✨️ My best work till now  [TicketKing - Event Ticketing Platform](https://preview-ticketking.vercel.app/)
 * 🚀 Interested in future tech
 
  <div align="left">
@@ -48,9 +48,9 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 </div>
 <h3 align="left">Connect with me </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tasmim-al-tahsin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ganvir" height="26" width="35" /></a>
+<a href="https://www.linkedin.com/in/tasmim-al-tahsin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahsin" height="26" width="35" /></a>
 <a href="https://instagram.com/tahsin_niyan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
-<a href="https://discord.com/users/12409085545342608" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="abhishekganvir" height="30" width="40" /></a>
+<a href="https://discord.com/users/12409085545342608" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="tahsin" height="30" width="40" /></a>
 </p>
 
  <div align="left">
@@ -59,14 +59,13 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 
 
 
-<!---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekganvir&layout=donut-vertical&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasmim-tahsin&layout=donut-vertical&show_icons=true&theme=radical)
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
   
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekganvir&show_icons=true&theme=radical)
+![Tahsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasmim-tahsin&show_icons=true&theme=radical)
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
