@@ -27,6 +27,7 @@
   <img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" width="45" height="45"  />
    <img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" width="50" height="48"  />
+    <img src="https://img.icons8.com/?size=100&id=JAOzEPu9w5iE&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" width="50" height="48"  />
 <img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" width="50" height="48"  />
@@ -35,7 +36,8 @@
    <img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" width="50" height="48"  />
    <img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" width="50" height="48"  />
-
+   
+   
   
 <img src="https://img.icons8.com/?size=96&id=22813&format=png" width="50" height="48"  />
 <img
