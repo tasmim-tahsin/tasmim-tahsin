@@ -1,4 +1,5 @@
 [![MasterHead](https://ibb.co.com/4nJtybhz)]()
+<img src="https://ibb.co.com/4nJtybhz" width="30px">
 <h1 align="center">Hi 👋, I'm Tahsin!</h1>
 <h3 align="center">A Passionate Full Stack Developer and AI Enthusiast from Bangladesh
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
