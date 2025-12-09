@@ -1,5 +1,10 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]()
-<img src="https://ibb.co.com/4nJtybhz" width="30px">
+<p align="center">
+  <a href="https://ibb.co.com/4nJtybhz">
+    <img src="https://i.ibb.co.com/sdtRST8n/Green-White-Geometric-Personal-Photo-Linked-In-Banner.png" 
+         width="100%" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Tahsin!</h1>
 <h3 align="center">A Passionate Full Stack Developer and AI Enthusiast from Bangladesh
     <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
