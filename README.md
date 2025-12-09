@@ -1,77 +1,107 @@
 <p align="center">
   <a href="https://ibb.co.com/4nJtybhz">
-    <img src="https://i.ibb.co.com/sdtRST8n/Green-White-Geometric-Personal-Photo-Linked-In-Banner.png" 
-         width="100%" />
+    <img src="https://i.ibb.co.com/sdtRST8n/Green-White-Geometric-Personal-Photo-Linked-In-Banner.png" width="100%" />
   </a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Tahsin!</h1>
-<h3 align="center">A Passionate Full Stack Developer and AI Enthusiast from Bangladesh
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h3>
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tasmim-tahsin&label=Profile%20views&color=0e75b6&style=flat" alt="Tahsin" /> </p>
+<h3 align="center">
+  Full Stack Developer & AI Enthusiast from Bangladesh  
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+</h3>
 
-
-
-* 🎓  I'm currently pursuing a BSc. in CSE at American International University-Bangladesh
-* ✉️  You can contact me at [tahsinniyan@gmail.com](mailto:abhishekganvirr@gmail.com)
-* ✨️ My best work till now  [TicketKing - Event Ticketing Platform](https://preview-ticketking.vercel.app/)
-* 🚀 Interested in future tech
-
- <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tasmim-tahsin&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
-### Skills
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://img.icons8.com/?size=96&id=21278&format=png" width="50" height="47" alt="CSS" />
-  <img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" width="45" height="45"  />
-   <img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" width="50" height="48"  />
-   <img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" width="50" height="48"  />
-    <img src="https://img.icons8.com/?size=100&id=JAOzEPu9w5iE&format=png" width="50" height="48"  />
-   <img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" width="50" height="48"  />
-<img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" width="50" height="48"  />
-   <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" width="50" height="48"  />
-   <img src="https://img.icons8.com/?size=128&id=lVitPDXqQKP8&format=png" width="50" height="48"  />
-   <img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png" width="50" height="48"  />
-   <img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" width="50" height="48"  />
-   <img src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" width="50" height="48"  />
-   <img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" width="50" height="48"  />
-   
-   
-  
-<img src="https://img.icons8.com/?size=96&id=22813&format=png" width="50" height="48"  />
-<img
-src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" height="42" />
+---
 
-</p> 
-  
-<div align="left">
+## 🚀 About Me
+- 🎓 BSc in CSE @ **AIUB**  
+- ✉️ Reach me at **tahsinniyan@gmail.com**  
+- 🌐 Best Project → **[TicketKing - Event Ticketing Platform](https://preview-ticketking.vercel.app/)**  
+- 💡 Passionate about web apps, AI tools, and automation  
+- 🚀 Exploring emerging technologies every day  
+
+---
+
+<div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-<h3 align="left">Connect with me </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/tasmim-al-tahsin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tahsin" height="26" width="35" /></a>
-<a href="https://instagram.com/tahsin_niyan25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alright.abhi" height="30" width="40" /></a>
-<a href="https://discord.com/users/12409085545342608" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="tahsin" height="30" width="40" /></a>
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <!-- HTML, CSS, JS, TS, etc -->
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" />
+  <img src="https://img.icons8.com/?size=96&id=21278&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=128&id=ZMc42tPbG32H&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=96&id=CIAZz2CYc6Kc&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=96&id=dJjTWMogzFzg&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=JAOzEPu9w5iE&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=128&id=Nkym0Ujb8VGI&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=96&id=hsPbhkOH4FMe&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=128&id=lVitPDXqQKP8&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=160&id=tBBf3P8HL0vR&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=160&id=Pv4IGT0TSpt8&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=96&id=rHpveptSuwDz&format=png" width="40" />
+  <img src="https://img.icons8.com/?size=96&id=8verEw3iUvx0&format=png" width="40" />
+
+  <!-- Added Logos -->
+  <!-- Next.js -->
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45" />
+
+  <!-- NestJS -->
+  <img src="https://nestjs.com/img/logo-small.svg" width="45" />
+
+  <!-- PostgreSQL -->
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="45" />
+
+  <!-- MongoDB (your existing) -->
+  <img src="https://img.icons8.com/?size=96&id=22813&format=png" width="40" />
+
+  <img src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="40" />
 </p>
 
- <div align="left">
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tasmim-al-tahsin/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
+  </a>
+  <a href="https://instagram.com/tahsin_niyan25">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
+  </a>
+  <a href="https://discord.com/users/12409085545342608">
+    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="40" />
+  </a>
+</p>
+
+---
+
+<div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+## 📊 GitHub Analytics
+
+### 🔥 Top Languages
 
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tasmim-tahsin&layout=donut-vertical&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=tasmim-tahsin&layout=donut-vertical&theme=radical" />
 </p>
 
+
+### 🚀 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tasmim-tahsin&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tasmim-tahsin&show_icons=true&theme=radical" />
 </p>
 
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
