@@ -67,14 +67,11 @@ src="https://img.icons8.com/?size=96&id=wpZmKzk11AzJ&format=png" width="48" heig
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasmim-tahsin&layout=donut-vertical&show_icons=true&theme=radical)
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-  
-![Tahsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasmim-tahsin&show_icons=true&theme=radical)
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tasmim-tahsin&layout=donut-vertical&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tasmim-tahsin&show_icons=true&theme=radical" />
+</p>
+
